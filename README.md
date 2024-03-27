@@ -9,4 +9,4 @@
 ##### Purpose :
     API is used to access current weather data for any location
 
-#### Check out the live app [here](http://203.193.173.125/buildriseshine/api/reactjs/weather/)
+#### Check out the live app [here](https://priyanka23-brs.github.io/React-Weather-Prediction/)
